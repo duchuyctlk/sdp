@@ -7,3 +7,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "sdp"
 include ':sdp'
+include ':sample'
